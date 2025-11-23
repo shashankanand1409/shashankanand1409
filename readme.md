@@ -44,14 +44,16 @@
 
 ## 🛠 Featured Projects
 
-### <img src = "./rubiks_cube.png"/> Rubik's Cube Solver  
+### 🧩 Rubik's Cube Solver  
+
+> _React, Three.JS, Flask, OpenCV_
 
 - A smart application that detects a cube's state via camera and generates a solution in under 25 moves.
     
-- Implements the __Iterative Deepening A_ (IDA_)** algorithm for efficient pathfinding.
+- Implements the Iterative Deepening Approach (IDA) A* algorithm for efficient pathfinding.
     
 
-### 📦 Inventory Management System
+### 📦 Inventory Management System        
 
 > _React, FastAPI, MySQL_
 
